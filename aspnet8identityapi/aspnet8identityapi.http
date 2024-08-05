@@ -1,0 +1,6 @@
+@aspnet8identityapi_HostAddress = http://localhost:5275
+
+GET {{aspnet8identityapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
